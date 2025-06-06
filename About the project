@@ -1,0 +1,59 @@
+# 💼 Smart Resume Enhancer using Generative AI
+
+A simple and powerful Generative AI tool that helps users enhance their resumes by generating professional summaries, polishing experience descriptions, and optimizing content for Applicant Tracking Systems (ATS).
+
+---
+
+## 🚀 Features
+
+- ✨ AI-generated professional summaries
+- 🎯 Skill-to-role content optimization
+- 📄 Project description enhancement
+- 🧠 Built using Python + Flask
+- 🌐 Minimal web interface for easy use
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 3.x
+- Flask (Web Framework)
+- HTML/CSS (Frontend)
+- Generative Prompt Engineering
+
+---
+
+## 📷 Demo
+
+![Smart Resume Enhancer Screenshot](https://via.placeholder.com/600x300?text=Smart+Resume+Enhancer+Demo)
+
+---
+
+## 🧑‍💻 How It Works
+
+1. User fills in:
+   - Name
+   - Experience
+   - Skills
+   - Projects
+
+2. AI enhances the input using custom prompts.
+
+3. Enhanced resume content is generated and displayed.
+
+---
+
+## 📂 Project Structure
+
+
+
+
+---
+
+## 🧪 Run It Locally
+
+```bash
+git clone https://github.com/yourusername/smart_resume_enhancer.git
+cd smart_resume_enhancer
+pip install flask
+python app.py
